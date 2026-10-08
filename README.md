@@ -58,15 +58,19 @@ Hola! Em dic **Alejandro** i estudio el **CFGS de Desenvolupament d'Aplicacions 
 
 ---
 
-## Bitàcola
+## 📓 Bitàcola
 
-| Data | Activitat |
-|------|-----------|
-| Inici del curs | Exercicis de Java |
-| Inici del curs | Primers passos amb Git (control de versions) |
-| Inici del curs | Pràctiques de bases de dades |
-| 06/10/2026 | Creació del portafoli i del repositori `portafoli-dam` a GitHub |
+> Registre de projectes, exercicis i reptes que vaig superant al llarg del cicle.
 
+| Data | Activitat | Tecnologia |
+|------|-----------|------------|
+| Inici del curs | Exercicis de programació | ☕ Java |
+| Inici del curs | Primers passos amb control de versions | 🌿 Git |
+| Inici del curs | Pràctiques de bases de dades | 🗄️ SQL |
+| 06/10/2026 | Creació del portafoli i del repositori `portafoli-dam` | 🐙 GitHub |
+| 08/10/2026 | Millora visual del README (Markdown, insígnies i animacions) | 📝 Markdown |
+
+---
 ## Contacte
 
 - Correu electrònic: alu.alejandro.requena@mataro.epiaedu.cat
