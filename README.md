@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Alejandro&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Portafoli%20%26%20Bit%C3%A0cola%20%7C%20CFGS%20DAM&descAlignY=60&descSize=20" alt="Capçalera" />
 
+<a href="https://github.com/aleee27cyber/portafoli-dam">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudiant+de+DAM+%F0%9F%92%BB;T%C3%A8cnic+inform%C3%A0tic+de+professi%C3%B3+%F0%9F%9B%A0%EF%B8%8F;Aprenent+a+desenvolupar+aplicacions+web+%F0%9F%9A%80;Sempre+amb+ganes+d'aprendre+m%C3%A9s+%E2%9C%A8" alt="Text animat" />
+</a>
+
 </div>
 
 ---
