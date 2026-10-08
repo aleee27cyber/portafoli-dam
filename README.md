@@ -48,10 +48,15 @@ Hola! Em dic **Alejandro** i estudio el **CFGS de Desenvolupament d'Aplicacions 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bases de dades](https://img.shields.io/badge/Bases_de_dades-SQL-4479A1?style=for-the-badge)
 
-**Idiomes**
-- Castellà
-- Català
-- Anglès (nivell bàsic)
+### 🌍 Idiomes
+
+| Idioma | Nivell |
+|--------|--------|
+| 🇪🇸 Castellà | Natiu |
+| 🏴 Català | Natiu |
+| 🇬🇧 Anglès | Bàsic |
+
+---
 
 ## Bitàcola
 
