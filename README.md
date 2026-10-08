@@ -83,6 +83,11 @@ Hola! Em dic **Alejandro** i estudio el **CFGS de Desenvolupament d'Aplicacions 
 
 ---
 
-## Contacte
+## 📫 Contacte
 
-- Correu electrònic: alu.alejandro.requena@mataro.epiaedu.cat
+[![GitHub](https://img.shields.io/badge/GitHub-aleee27cyber-181717?style=for-the-badge&logo=github)](https://github.com/aleee27cyber)
+
+[![Email](https://img.shields.io/badge/Email-alu.alejandro.requena@mataro.epiaedu.cat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alu.alejandro.requena@mataro.epiaedu.cat)
+<!-- Quan els tinguis, descomenta i completa:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-El_meu_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EL_TEU_USUARI)
+-->
