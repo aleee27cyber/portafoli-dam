@@ -71,6 +71,18 @@ Hola! Em dic **Alejandro** i estudio el **CFGS de Desenvolupament d'Aplicacions 
 | 08/10/2026 | Millora visual del README (Markdown, insígnies i animacions) | 📝 Markdown |
 
 ---
+
+## 📊 Activitat a GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aleee27cyber&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadístiques de GitHub" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aleee27cyber&theme=tokyonight&hide_border=true" alt="Ratxa de GitHub" height="160" />
+
+</div>
+
+---
+
 ## Contacte
 
 - Correu electrònic: alu.alejandro.requena@mataro.epiaedu.cat
