@@ -21,13 +21,16 @@
 
 Bitàcola i portafoli d'activitats del CFGS DAM.
 
-## Qui sóc
+## 👋 Qui sóc
 
-Hola! Em dic Alejandro i estudio el CFGS de Desenvolupament d'Aplicacions Multiplataforma (DAM).
+Hola! Em dic **Alejandro** i estudio el **CFGS de Desenvolupament d'Aplicacions Multiplataforma (DAM)**.
 
-Vinc del cicle formatiu de grau mitjà d'ASIX (Administració de Sistemes Informàtics en Xarxa) i actualment treballo com a tècnic en una empresa d'informàtica, cosa que em permet combinar la pràctica del dia a dia amb la formació.
+- 🎓 Vinc del cicle formatiu de grau mitjà d'**ASIX** (Administració de Sistemes Informàtics en Xarxa).
+- 💼 Actualment **treballo com a tècnic** en una empresa d'informàtica, combinant pràctica real i formació.
+- 🎯 Vull **aprendre a programar** i **desenvolupar aplicacions web**, i construir un perfil de desenvolupador sòlid durant el cicle.
+- ⚽ Les meves aficions són la **informàtica** i l'**esport**.
 
-Tinc ganes d'aprendre a programar i de desenvolupar aplicacions web, i vull anar construint un perfil de desenvolupador sòlid durant el cicle. Les meves aficions són, lògicament, la informàtica i l'esport.
+---
 
 ## Tech stack
 
