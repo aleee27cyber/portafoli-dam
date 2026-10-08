@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudiant+de+DAM+%F0%9F%92%BB;T%C3%A8cnic+inform%C3%A0tic+de+professi%C3%B3+%F0%9F%9B%A0%EF%B8%8F;Aprenent+a+desenvolupar+aplicacions+web+%F0%9F%9A%80;Sempre+amb+ganes+d'aprendre+m%C3%A9s+%E2%9C%A8" alt="Text animat" />
 </a>
 
+<br/>
+
+![Estat](https://img.shields.io/badge/CFGS-DAM-2F81F7?style=for-the-badge)
+![Curs](https://img.shields.io/badge/Curs-2026--2027-success?style=for-the-badge)
+![Idiomes](https://img.shields.io/badge/Idiomes-CA%20%7C%20ES%20%7C%20EN-orange?style=for-the-badge)
+
 </div>
 
 ---
