@@ -91,3 +91,10 @@ Hola! Em dic **Alejandro** i estudio el **CFGS de Desenvolupament d'Aplicacions 
 <!-- Quan els tinguis, descomenta i completa:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-El_meu_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EL_TEU_USUARI)
 -->
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Peu" />
+
+</div>
